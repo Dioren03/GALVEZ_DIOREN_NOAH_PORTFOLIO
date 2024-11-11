@@ -1,0 +1,39 @@
+body {
+  background-color: #e9c9b2  !important; 
+}
+
+
+.full-screen-height {
+  min-height: 100vh;
+}
+
+.border-outline {
+  border: 2px solid black;
+}
+
+svg {
+  width: 40px;
+}
+
+.project-img {
+  width: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  height: 225px;
+}
+.svg-hover:hover{
+  fill: white;
+}
+
+
+.custom-navbar {
+  background-color: #e9c9b2; 
+  color: rgb(0, 0, 0); 
+  opacity: 1; 
+}
+
+.custom-navbar .nav-link {
+  color: rgb(0, 0, 0);
+}
+
+
